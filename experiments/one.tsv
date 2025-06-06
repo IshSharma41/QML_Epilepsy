@@ -1,0 +1,3 @@
+name	type	units	sampling_frequency	status
+BTEleft SD	eeg	µV	256	good
+CROSStop SD	eeg	µV	256	good
