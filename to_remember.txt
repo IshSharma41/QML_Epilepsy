@@ -1,0 +1,17 @@
+-- To activate this environment, use
+     conda activate C:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml
+
+
+--To deactivate an active environment, use
+      conda deactivate
+
+
+--To install all the requirements listed in the requirements.txt
+    pip install -r requirements.txt
+
+
+--TO CHECK FOR THE CURRENT ACTIVE ENVIREOPMENT
+    pip --version
+
+
+--

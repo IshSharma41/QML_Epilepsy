@@ -1,0 +1,244 @@
+├── QML_Project/
+│   └── README.md
+│   └── project_structure.txt
+│   └── requirements.txt
+│   └── to_remember.txt
+├── configs/
+│   └── save_structure.py
+├── data/
+│   ├── processed/
+│   │   └── eeg_seizeit2
+│   │   └── eeg_srm
+│   │   └── mri
+│   │   └── mri_pet
+│   ├── raw/
+│   │   └── eeg_seizeit2
+│   │   └── eeg_srm
+│   │   └── mri
+│   │   └── mri_pet
+├── experiments/
+│   └── AdaptiveArtifactRejection.py
+│   └── ICA.py
+│   └── MLbasedArtifatDetection.py
+│   └── RegionalVolumeAnalysis.py
+│   └── SurfaceBasedMorphometry.py
+│   └── connectivity_analysis.py
+│   └── dtw4eegEpochAlignment.py
+│   └── imports_test.py
+│   └── preprocess_seizeit2.m
+│   └── test_antroops.py
+│   └── voxel_wise_feature_extraction.py
+├── libs/
+│   └── eeglab
+│   └── fieldtrip
+│   └── jsonlab
+├── logs/
+│   └── ideas_mri_preprocessing.log
+│   └── matlab_seizeit2_preprocessing_log.txt
+│   └── mri_ideas_preprocessing.txt
+│   └── mri_pet_mri_preprocessing.log
+│   └── pet_mri_pet_preprocessing.log
+│   └── srm_preprocessing.log
+│   └── sub-001_chunk_0s_drop_log.png
+│   └── sub-001_chunk_0s_pre_reject.png
+│   └── sub-001_chunk_10s_drop_log.png
+│   └── sub-001_chunk_10s_pre_reject.png
+│   └── sub-001_chunk_20s_drop_log.png
+│   └── sub-001_chunk_20s_pre_reject.png
+│   └── sub-001_chunk_30s_drop_log.png
+│   └── sub-001_chunk_30s_pre_reject.png
+│   └── sub-001_chunk_40s_drop_log.png
+│   └── sub-001_chunk_40s_pre_reject.png
+│   └── sub-002_chunk_0s_drop_log.png
+│   └── sub-002_chunk_0s_pre_reject.png
+│   └── sub-002_chunk_10s_drop_log.png
+│   └── sub-002_chunk_10s_pre_reject.png
+│   └── sub-002_chunk_20s_drop_log.png
+│   └── sub-002_chunk_20s_pre_reject.png
+│   └── sub-002_chunk_30s_drop_log.png
+│   └── sub-002_chunk_30s_pre_reject.png
+│   └── sub-002_chunk_40s_drop_log.png
+│   └── sub-002_chunk_40s_pre_reject.png
+│   └── sub-003_chunk_0s_drop_log.png
+│   └── sub-003_chunk_0s_pre_reject.png
+│   └── sub-003_chunk_10s_drop_log.png
+│   └── sub-003_chunk_10s_pre_reject.png
+│   └── sub-003_chunk_20s_drop_log.png
+│   └── sub-003_chunk_20s_pre_reject.png
+│   └── sub-003_chunk_30s_drop_log.png
+│   └── sub-003_chunk_30s_pre_reject.png
+│   └── sub-003_chunk_40s_drop_log.png
+│   └── sub-003_chunk_40s_pre_reject.png
+│   └── sub-004_chunk_0s_drop_log.png
+│   └── sub-004_chunk_0s_pre_reject.png
+│   └── sub-004_chunk_10s_drop_log.png
+│   └── sub-004_chunk_10s_pre_reject.png
+│   └── sub-004_chunk_20s_drop_log.png
+│   └── sub-004_chunk_20s_pre_reject.png
+│   └── sub-004_chunk_30s_drop_log.png
+│   └── sub-004_chunk_30s_pre_reject.png
+│   └── sub-004_chunk_40s_drop_log.png
+│   └── sub-004_chunk_40s_pre_reject.png
+│   └── sub-005_chunk_0s_drop_log.png
+│   └── sub-005_chunk_0s_pre_reject.png
+│   └── sub-005_chunk_10s_drop_log.png
+│   └── sub-005_chunk_10s_pre_reject.png
+│   └── sub-005_chunk_20s_drop_log.png
+│   └── sub-005_chunk_20s_pre_reject.png
+│   └── sub-005_chunk_30s_drop_log.png
+│   └── sub-005_chunk_30s_pre_reject.png
+│   └── sub-005_chunk_40s_drop_log.png
+│   └── sub-005_chunk_40s_pre_reject.png
+│   └── sub-006_chunk_0s_drop_log.png
+│   └── sub-006_chunk_0s_pre_reject.png
+│   └── sub-006_chunk_10s_drop_log.png
+│   └── sub-006_chunk_10s_pre_reject.png
+│   └── sub-006_chunk_20s_drop_log.png
+│   └── sub-006_chunk_20s_pre_reject.png
+│   └── sub-006_chunk_30s_drop_log.png
+│   └── sub-006_chunk_30s_pre_reject.png
+│   └── sub-006_chunk_40s_drop_log.png
+│   └── sub-006_chunk_40s_pre_reject.png
+│   └── sub-007_chunk_0s_drop_log.png
+│   └── sub-007_chunk_0s_pre_reject.png
+│   └── sub-007_chunk_10s_drop_log.png
+│   └── sub-007_chunk_10s_pre_reject.png
+│   └── sub-007_chunk_20s_drop_log.png
+│   └── sub-007_chunk_20s_pre_reject.png
+│   └── sub-007_chunk_30s_drop_log.png
+│   └── sub-007_chunk_30s_pre_reject.png
+│   └── sub-007_chunk_40s_drop_log.png
+│   └── sub-007_chunk_40s_pre_reject.png
+│   └── sub-008_chunk_0s_drop_log.png
+│   └── sub-008_chunk_0s_pre_reject.png
+│   └── sub-008_chunk_10s_drop_log.png
+│   └── sub-008_chunk_10s_pre_reject.png
+│   └── sub-008_chunk_20s_drop_log.png
+│   └── sub-008_chunk_20s_pre_reject.png
+│   └── sub-008_chunk_30s_drop_log.png
+│   └── sub-008_chunk_30s_pre_reject.png
+│   └── sub-008_chunk_40s_drop_log.png
+│   └── sub-008_chunk_40s_pre_reject.png
+│   └── sub-009_chunk_0s_drop_log.png
+│   └── sub-009_chunk_0s_pre_reject.png
+│   └── sub-009_chunk_10s_drop_log.png
+│   └── sub-009_chunk_10s_pre_reject.png
+│   └── sub-009_chunk_20s_drop_log.png
+│   └── sub-009_chunk_20s_pre_reject.png
+│   └── sub-009_chunk_30s_drop_log.png
+│   └── sub-009_chunk_30s_pre_reject.png
+│   └── sub-009_chunk_40s_drop_log.png
+│   └── sub-009_chunk_40s_pre_reject.png
+│   └── sub-010_chunk_0s_drop_log.png
+│   └── sub-010_chunk_0s_pre_reject.png
+│   └── sub-010_chunk_10s_drop_log.png
+│   └── sub-010_chunk_10s_pre_reject.png
+│   └── sub-010_chunk_20s_drop_log.png
+│   └── sub-010_chunk_20s_pre_reject.png
+│   └── sub-010_chunk_30s_drop_log.png
+│   └── sub-010_chunk_30s_pre_reject.png
+│   └── sub-010_chunk_40s_drop_log.png
+│   └── sub-010_chunk_40s_pre_reject.png
+│   └── sub-011_chunk_0s_drop_log.png
+│   └── sub-011_chunk_0s_pre_reject.png
+│   └── sub-011_chunk_10s_drop_log.png
+│   └── sub-011_chunk_10s_pre_reject.png
+│   └── sub-011_chunk_20s_drop_log.png
+│   └── sub-011_chunk_20s_pre_reject.png
+│   └── sub-011_chunk_30s_drop_log.png
+│   └── sub-011_chunk_30s_pre_reject.png
+│   └── sub-011_chunk_40s_drop_log.png
+│   └── sub-011_chunk_40s_pre_reject.png
+│   └── sub-012_chunk_0s_drop_log.png
+│   └── sub-012_chunk_0s_pre_reject.png
+│   └── sub-012_chunk_10s_drop_log.png
+│   └── sub-012_chunk_10s_pre_reject.png
+│   └── sub-012_chunk_20s_drop_log.png
+│   └── sub-012_chunk_20s_pre_reject.png
+│   └── sub-012_chunk_30s_drop_log.png
+│   └── sub-012_chunk_30s_pre_reject.png
+│   └── sub-012_chunk_40s_drop_log.png
+│   └── sub-012_chunk_40s_pre_reject.png
+│   └── sub-013_chunk_0s_drop_log.png
+│   └── sub-013_chunk_0s_pre_reject.png
+│   └── sub-013_chunk_10s_drop_log.png
+│   └── sub-013_chunk_10s_pre_reject.png
+│   └── sub-013_chunk_20s_drop_log.png
+│   └── sub-013_chunk_20s_pre_reject.png
+│   └── sub-013_chunk_30s_drop_log.png
+│   └── sub-013_chunk_30s_pre_reject.png
+│   └── sub-013_chunk_40s_drop_log.png
+│   └── sub-013_chunk_40s_pre_reject.png
+│   └── sub-014_chunk_0s_drop_log.png
+│   └── sub-014_chunk_0s_pre_reject.png
+│   └── sub-014_chunk_10s_drop_log.png
+│   └── sub-014_chunk_10s_pre_reject.png
+│   └── sub-014_chunk_20s_drop_log.png
+│   └── sub-014_chunk_20s_pre_reject.png
+│   └── sub-014_chunk_30s_drop_log.png
+│   └── sub-014_chunk_30s_pre_reject.png
+│   └── sub-014_chunk_40s_drop_log.png
+│   └── sub-014_chunk_40s_pre_reject.png
+│   └── sub-015_chunk_0s_drop_log.png
+│   └── sub-015_chunk_0s_pre_reject.png
+│   └── sub-015_chunk_10s_drop_log.png
+│   └── sub-015_chunk_10s_pre_reject.png
+│   └── sub-015_chunk_20s_drop_log.png
+│   └── sub-015_chunk_20s_pre_reject.png
+│   └── sub-015_chunk_30s_drop_log.png
+│   └── sub-015_chunk_30s_pre_reject.png
+│   └── sub-015_chunk_40s_drop_log.png
+│   └── sub-015_chunk_40s_pre_reject.png
+│   └── sub-016_chunk_0s_drop_log.png
+│   └── sub-016_chunk_0s_pre_reject.png
+│   └── sub-016_chunk_10s_drop_log.png
+│   └── sub-016_chunk_10s_pre_reject.png
+│   └── sub-016_chunk_20s_drop_log.png
+│   └── sub-016_chunk_20s_pre_reject.png
+│   └── sub-016_chunk_30s_drop_log.png
+│   └── sub-016_chunk_30s_pre_reject.png
+│   └── sub-016_chunk_40s_drop_log.png
+│   └── sub-016_chunk_40s_pre_reject.png
+│   └── sub-017_chunk_0s_drop_log.png
+│   └── sub-017_chunk_0s_pre_reject.png
+│   └── sub-017_chunk_10s_drop_log.png
+│   └── sub-017_chunk_10s_pre_reject.png
+│   └── sub-017_chunk_20s_drop_log.png
+│   └── sub-017_chunk_20s_pre_reject.png
+│   └── sub-017_chunk_30s_drop_log.png
+│   └── sub-017_chunk_30s_pre_reject.png
+│   └── sub-017_chunk_40s_drop_log.png
+│   └── sub-017_chunk_40s_pre_reject.png
+├── notebooks/
+├── resources/
+│   └── MNI152_T1_1mm.nii.gz
+├── results/
+├── src/
+│   ├── preprocessing_modules/
+│   │   └── __init__.py
+│   │   └── mri_preprocessing_mri_pet.py
+│   │   └── outputs_details.txt
+│   │   └── pet_preprocessing_mri_pet.py
+│   │   └── preprocess_mri_ideas.py
+│   │   └── run_preprocess_seizeit2.py
+│   │   └── run_preprocess_srm.py
+│   │   └── tempCodeRunnerFile.py
+│   │   └── what_why_how.txt
+│   │   ├── __pycache__/
+│   │   │   └── __init__.cpython-312.pyc
+│   │   ├── modules/
+│   │   │   └── __init__.py
+│   │   │   └── mri_harmonization.py
+│   │   │   └── pet_preprocess.py
+│   │   │   └── seizeit2_preprocessing.py
+│   │   │   └── srm_preprocessing.py
+│   │   │   └── tempCodeRunnerFile.py
+│   │   │   ├── __pycache__/
+│   │   │   │   └── __init__.cpython-312.pyc
+│   │   │   │   └── eeg_preprocessing.cpython-312.pyc
+│   │   │   │   └── mri_harmonization.cpython-312.pyc
+│   │   │   │   └── pet_preprocess.cpython-312.pyc
+│   │   │   │   └── preprocess_seizeit2.cpython-312.pyc
+│   │   │   │   └── preprocess_seizeit2_subject.cpython-312.pyc
+│   │   │   │   └── preprocess_srm.cpython-312.pyc
+│   │   │   │   └── preprocess_srm_subject.cpython-312.pyc

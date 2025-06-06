@@ -1,0 +1,52 @@
+the preprocessing pipeling along with logic for the different data differently. 
+1. PET
+2. MRI(mri_pet)
+3. MRI(IDEAS)
+4. EEG(seizeit2)
+5. EEG(srm)    
+keep in mind that the data of the same broad type must be harmonized in output, like the 2 MRI must be in same format in the respective outputs to be put together later for ML processing.  same  ideology must be kept for the the 2 EEG data. just mention the ideology. 
+
+IDEAS MRI dataset:\
+
+Magnetic resonance imaging (MRI) is a crucial tool to identify brain abnormalities in a wide range of neurological disorders. In focal epilepsy MRI is used to identify structural cerebral abnormalities. For covert lesions, machine learning and artificial intelligence algorithms may improve lesion detection if abnormalities are not evident on visual inspection. The success of this approach depends on the volume and quality of training data.
+Herein, we release an open-source dataset of preprocessed MRI scans from 442 individuals with drug-refractory focal epilepsy who had neurosurgical resections, and detailed demographic information. The MRI scan data includes the preoperative 3D T1 and where available 3D FLAIR, as well as a manually inspected complete surface reconstruction and volumetric parcellations. Demographic information includes age, sex, age of onset of epilepsy, location of surgery, histopathology of resected specimen, occurrence and frequency of focal seizures with and without impairment of awareness, focal to bilateral tonic-clonic seizures, number of anti-seizure medications (ASMs) at time of surgery, and a total of 1764 patient years of post-surgical follow up. Crucially, we also include resection masks delineated from post-surgical imaging.
+To demonstrate the veracity of our data, we successfully replicated previous studies showing long-term outcomes of seizure freedom in the range of around 50%. Our imaging data replicates findings of group level atrophy in patients compared to controls. Resection locations in the cohort were predominantly in the temporal and frontal lobes.
+We envisage our dataset, shared openly with the community, will catalyse the development and application of computational methods in clinical neurology.
+
+
+Aerobic Glycolysis Imaging PET-MRI:\
+
+Scanning was performed on a hybrid PET-MRI Siemens Biograph mMR scanner (Siemens Healthineers, Erlangen, Germany) using a 12-channel phase-array head coil. All subjects fasted for at least 6 hours before receiving an injection of 183.6 ± 32.0 MBq 18F-FDG while resting in a quiet, dimly lit room. They went through a simultaneous PET-MRI scan 40 min later, including static 18F-FDG-PET, sagittal T1-weighted imaging(T1WI), axial Pulsed Arterial Spin Labeling (PASL), axial transverse relaxation time (T2) mapping, and axial observed transverse relaxation time (T2*) mapping. PASL images were converted to quantitative cerebral blood-flow maps with the built-in QUantitative Imaging of Perfusion using a Single Subtraction (QUIPSS) method.16, 17 For T1WI, we used Magnetization Prepared RApid Gradient Echo (MPRAGE) sequence, echo time (TE) = 2.44 ms, repetition time (TR) = 1900 ms, flip angle = 9º. For T2* mapping, we used Gradient Recalled Echo (GRE) sequence: TE = 2.46 / 4.92 / 7.38 / 9.84 ms, TR = 391 ms, flip angle = 25º. For T2 mapping, we used Spin Echo (SE) sequence: TE = 10.5 / 21.0 / 31.5 / 42.0 /52.5 / 63.0 ms, TR = 2000 ms, flip angle = 180º. For axial PASL: TE = 11 ms, TR = 2500 ms, flip angle = 90º.
+
+
+SRM resting state EEG data:\
+
+This EEG dataset contains resting-state EEG extracted from the experimental
+paradigm used in the *Stimulus-Selective Response Modulation* (SRM) project at
+the Dept. of Psychology, University of Oslo, Norway.
+
+The data is recorded with a BioSemi ActiveTwo system, using 64 electrodes
+following the positional scheme of the extended 10-20 system (10-10).
+Each datafile comprises four minutes of uninterrupted EEG acquired while the
+subjects were resting with their eyes closed. The dataset includes EEG from
+111 healthy control subjects (the "t1" session), of which a number underwent
+an additional EEG recording at a later date (the "t2" session). Thus, some
+subjects have one associated EEG file, whereas others have two.
+
+
+The raw EEG data signals are rereferenced to the average reference. Other than
+that, no operations have been performed on the data. The files contain no
+events; the whole continuous segment is resting-state data. The data signals
+are unfiltered (recorded in Europe, the line noise frequency is 50 Hz). The
+time points for the subject's EEG recording(s), are listed in the *_scans.tsv
+file (particularly interesting for the subjects with two recordings).
+
+
+
+SiezeIT2 EEG:\
+
+
+The participants were recorded with the specific center's vEEG monitoring equipment, where the EEG electrodes were placed according to the 10-20 system or the 25-electrode array of the International Federation of Clinical Neurophysiology. The SD device was used to record wearable data simultaneously with the vEEG. The device has a size of 24.5 x 33.5 x 7.73 mm and weighs approximately 6.3 grams. The wearable device measures data at a sampling frequency of 250 Hz and has a battery life of approximately 24 hours. Two recording devices were used: one placed in the patient's upper back using a patch and connected to electrodes attached behind the ear, on the mastoid bone (EEG SD); another placed on the left side of the chest, with two electrodes extended to the lower left rib cage and the fourth intercostal space in the left parasternal position to measure ECG, and two electrodes extended to the left deltoid muscle to measure EMG data (ECG/EMG SD). The module itself contains accelerometers (ACC) and gyroscopes (GYR), which measured movement data at a sampling rate of 25 Hz.
+The EEG SD electrode placement depended on the patient's medical history and is based on the seizure type and onset. When the seizures were suspected to originate from the left hemisphere, two electrodes were placed on the left side and one on the right side, forming one left same-side channel and one cross-head channel. Analogously, if seizures were suspected to originate from the right hemisphere, the same-side channel was derived from two electrodes placed behind the right ear. The dataset includes patients who were suspected to have generalized seizures (but had focal seizures) as well, and in this case, the cross-head channel was non-existent and replaced by an additional lateral channel by using two electrodes on each ear.
+
+The complete dataset contains around 11 640 hours of wearable data. Four different modalities were recorded for most participants: bte-EEG, ECG, EMG and movement data. All participants' data within the dataset contain wearable bte-EEG. In 3\% of the dataset, ECG, EMG and movement data were not included due to technical failures or errors in the setup. In total, 886 focal seizures were recorded with the wearable device. The mean duration of the recorded seizures was 58 seconds, ranging between 3 seconds and 16 minutes. The majority of the seizures were focal aware (FA) and focal impaired awareness (FIA), with 317 and 393 occurrences, respectively. From the remaining seizures, 55 were focal-to-bilateral tonic clinic (FBTC), 12 were focal with unclear awareness status, 2 were subclinical focal seizures and 93 had unknown or unreported onset. There was a predominance of seizures with onset on the left hemisphere (44\%). In 12\% of the seizures, the onset was located in the right hemisphere, 1\% had a bilateral onset and in 43\% of the seizures the onset was unclear. Regarding localization, the seizure onsets were distributed over the central, frontal, temporal, occipital, parietal and insula lobes, with a predominance of temporal lobe seizures (30\%). Several seizures recorded could not be paired with a clear onset lobe (26\%).
