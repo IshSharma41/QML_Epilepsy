@@ -1,0 +1,218 @@
+2025-04-14 05:03:21.908929 - Error: Standard template 'MNI152_T1_1mm.nii.gz' not found.
+2025-04-14 05:09:29.772581 - Error: Standard template 'MNI152_T1_1mm.nii.gz' not found.
+2025-04-14 05:09:57.291910 - Error: Standard template 'MNI152_T1_1mm.nii.gz' not found.
+2025-04-14 05:11:20.413399 - Error processing sub-control01: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.419054 - Error processing sub-control02: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.422072 - Error processing sub-control03: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.422072 - Error processing sub-control04: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.422072 - Error processing sub-control05: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.422072 - Error processing sub-control06: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.422072 - Error processing sub-control07: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.435383 - Error processing sub-control08: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.438186 - Error processing sub-control09: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.441184 - Error processing sub-control10: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.444186 - Error processing sub-control11: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.447049 - Error processing sub-control12: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.450339 - Error processing sub-control13: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.453545 - Error processing sub-control14: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.456836 - Error processing sub-control15: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.460614 - Error processing sub-control16: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.462975 - Error processing sub-control17: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.464773 - Error processing sub-control18: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.468050 - Error processing sub-patient01: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.471609 - Error processing sub-patient02: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.474416 - Error processing sub-patient03: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.477615 - Error processing sub-patient04: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.480618 - Error processing sub-patient05: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.484439 - Error processing sub-patient06: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.487414 - Error processing sub-patient07: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.489235 - Error processing sub-patient08: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.492244 - Error processing sub-patient09: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.494899 - Error processing sub-patient10: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.497569 - Error processing sub-patient11: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.500601 - Error processing sub-patient12: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.503598 - Error processing sub-patient13: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.506935 - Error processing sub-patient14: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.509955 - Error processing sub-patient15: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.512884 - Error processing sub-patient16: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.515883 - Error processing sub-patient17: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.518258 - Error processing sub-patient18: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.521301 - Error processing sub-patient19: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.523811 - Error processing sub-patient20: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.526812 - Error processing sub-patient21: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.528368 - Error processing sub-patient22: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.532273 - Error processing sub-patient23: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.535275 - Error processing sub-patient24: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:11:20.535275 - Finished: 0 processed, 42 failed.
+2025-04-14 05:12:42.005559 - Error processing sub-control01: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.008276 - Error processing sub-control02: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.008276 - Error processing sub-control03: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.008276 - Error processing sub-control04: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.008276 - Error processing sub-control05: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.008276 - Error processing sub-control06: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.008276 - Error processing sub-control07: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.008276 - Error processing sub-control08: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.017977 - Error processing sub-control09: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.019983 - Error processing sub-control10: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.021228 - Error processing sub-control11: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.023262 - Error processing sub-control12: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.024575 - Error processing sub-control13: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.025608 - Error processing sub-control14: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.025608 - Error processing sub-control15: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.029100 - Error processing sub-control16: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.030161 - Error processing sub-control17: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.032160 - Error processing sub-control18: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.033160 - Error processing sub-patient01: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.034618 - Error processing sub-patient02: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.035899 - Error processing sub-patient03: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.038060 - Error processing sub-patient04: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.039066 - Error processing sub-patient05: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.041264 - Error processing sub-patient06: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.042264 - Error processing sub-patient07: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.043263 - Error processing sub-patient08: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.046116 - Error processing sub-patient09: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.046656 - Error processing sub-patient10: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.048835 - Error processing sub-patient11: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.050608 - Error processing sub-patient12: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.052308 - Error processing sub-patient13: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.053310 - Error processing sub-patient14: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.055309 - Error processing sub-patient15: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.057082 - Error processing sub-patient16: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.059124 - Error processing sub-patient17: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.060089 - Error processing sub-patient18: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.062108 - Error processing sub-patient19: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.063378 - Error processing sub-patient20: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.064580 - Error processing sub-patient21: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.066588 - Error processing sub-patient22: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.068108 - Error processing sub-patient23: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.069081 - Error processing sub-patient24: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:12:42.070104 - Finished: 0 processed, 42 failed.
+2025-04-14 05:16:27.149127 - Error processing derivatives: [WinError 3] The system cannot find the path specified: 'data/raw/mri_pet\\derivatives\\anat'
+2025-04-14 05:16:27.168235 - Error processing sub-control01: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.180493 - Error processing sub-control02: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.187457 - Error processing sub-control03: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.191271 - Error processing sub-control04: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.199851 - Error processing sub-control05: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.206849 - Error processing sub-control06: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.211976 - Error processing sub-control07: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.215804 - Error processing sub-control08: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.219912 - Error processing sub-control09: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.223976 - Error processing sub-control10: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.228057 - Error processing sub-control11: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.232144 - Error processing sub-control12: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.236144 - Error processing sub-control13: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.239390 - Error processing sub-control14: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.243133 - Error processing sub-control15: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.247139 - Error processing sub-control16: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.251361 - Error processing sub-control17: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.255192 - Error processing sub-control18: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.258656 - Error processing sub-patient01: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.261938 - Error processing sub-patient02: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.265363 - Error processing sub-patient03: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.269729 - Error processing sub-patient04: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.275772 - Error processing sub-patient05: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.278566 - Error processing sub-patient06: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.281686 - Error processing sub-patient07: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.287618 - Error processing sub-patient08: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.291818 - Error processing sub-patient09: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.295668 - Error processing sub-patient10: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.299666 - Error processing sub-patient11: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.303013 - Error processing sub-patient12: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.307056 - Error processing sub-patient13: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:27.309830 - Error processing sub-patient14: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:46.645582 - Processed sub-patient15 successfully.
+2025-04-14 05:16:46.654821 - Error processing sub-patient16: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:46.662611 - Error processing sub-patient17: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:46.667321 - Error processing sub-patient18: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:46.672840 - Error processing sub-patient19: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:46.678131 - Error processing sub-patient20: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:46.683084 - Error processing sub-patient21: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:46.687819 - Error processing sub-patient22: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:46.693394 - Error processing sub-patient23: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:46.697458 - Error processing sub-patient24: D:\a\ANTsPy\ANTsPy\itksource\Modules\IO\NIFTI\src\itkNiftiImageIO.cxx:2160:
+ITK ERROR: ITK only supports orthonormal direction cosines.  No orthonormal definition found!
+2025-04-14 05:16:46.698874 - Finished: 1 processed, 42 failed.
+2025-04-14 05:19:44.043602 - Error processing derivatives: [WinError 3] The system cannot find the path specified: 'data/raw/mri_pet\\derivatives\\anat'
+2025-04-14 05:20:00.278306 - Processed sub-control01 successfully.
+2025-04-14 05:20:18.242778 - Processed sub-control02 successfully.
+2025-04-14 05:20:34.839817 - Processed sub-control03 successfully.
+2025-04-14 05:21:06.711083 - Processed sub-control04 successfully.
+2025-04-14 05:21:33.526629 - Processed sub-control05 successfully.
+2025-04-14 05:21:57.463521 - Processed sub-control06 successfully.
+2025-04-14 05:22:16.686111 - Processed sub-control07 successfully.
+2025-04-14 05:22:34.053698 - Processed sub-control08 successfully.
+2025-04-14 05:22:52.965428 - Processed sub-control09 successfully.
+2025-04-14 05:23:11.844321 - Processed sub-control10 successfully.
+2025-04-14 05:23:29.528454 - Processed sub-control11 successfully.
+2025-04-14 05:24:02.437227 - Processed sub-control12 successfully.
+2025-04-14 05:24:38.075461 - Processed sub-control13 successfully.
+2025-04-14 05:24:57.642315 - Processed sub-control14 successfully.
+2025-04-14 05:25:18.161357 - Processed sub-control15 successfully.
+2025-04-14 05:25:45.255172 - Processed sub-control16 successfully.
+2025-04-14 05:26:04.713053 - Processed sub-control17 successfully.
+2025-04-14 05:26:24.642528 - Processed sub-control18 successfully.
+2025-04-14 05:26:47.370660 - Processed sub-patient01 successfully.
+2025-04-14 05:27:07.881541 - Processed sub-patient02 successfully.
+2025-04-14 05:27:26.539851 - Processed sub-patient03 successfully.
+2025-04-14 05:27:44.560760 - Processed sub-patient04 successfully.
+2025-04-14 05:28:08.411156 - Processed sub-patient05 successfully.
+2025-04-14 05:28:29.474549 - Processed sub-patient06 successfully.
+2025-04-14 05:28:48.287895 - Processed sub-patient07 successfully.
+2025-04-14 05:29:08.391750 - Processed sub-patient08 successfully.
+2025-04-14 05:29:28.047955 - Processed sub-patient09 successfully.
+2025-04-14 05:29:48.194752 - Processed sub-patient10 successfully.
+2025-04-14 05:30:06.595090 - Processed sub-patient11 successfully.
+2025-04-14 05:30:28.237969 - Processed sub-patient12 successfully.
+2025-04-14 05:30:48.302319 - Processed sub-patient13 successfully.
+2025-04-14 05:31:11.996219 - Processed sub-patient14 successfully.
+2025-04-14 05:31:32.850663 - Processed sub-patient15 successfully.
+2025-04-14 05:31:53.673315 - Processed sub-patient16 successfully.
+2025-04-14 05:32:14.949899 - Processed sub-patient17 successfully.
+2025-04-14 05:32:34.453793 - Processed sub-patient18 successfully.
+2025-04-14 05:32:55.361587 - Processed sub-patient19 successfully.
+2025-04-14 05:33:14.117881 - Processed sub-patient20 successfully.
+2025-04-14 05:33:35.402246 - Processed sub-patient21 successfully.
+2025-04-14 05:33:54.669341 - Processed sub-patient22 successfully.
+2025-04-14 05:34:12.644711 - Processed sub-patient23 successfully.
+2025-04-14 05:34:34.218268 - Processed sub-patient24 successfully.
+2025-04-14 05:34:34.218268 - Finished: 42 processed, 1 failed.

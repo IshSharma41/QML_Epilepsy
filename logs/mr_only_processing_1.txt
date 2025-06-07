@@ -1,0 +1,553 @@
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5201, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+(Reference MRI-Only) Subject: sub-51, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-51\anat\sub-51_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 113)
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9071, 9072, 9081, 9082, 9051, 9052}. Label image only contains 111 labels (including background).
+  warnings.warn(
+(Reference MRI-Only) Subject: sub-53, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-53\anat\sub-53_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 110)
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+(Reference MRI-Only) Subject: sub-54, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-54\anat\sub-54_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 114)
+(Reference MRI-Only) Subject: sub-55, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-55\anat\sub-55_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-56, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-56\anat\sub-56_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+(Reference MRI-Only) Subject: sub-57, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-57\anat\sub-57_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 113)
+(Reference MRI-Only) Subject: sub-58, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-58\anat\sub-58_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+(Reference MRI-Only) Subject: sub-59, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-59\anat\sub-59_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 113)
+(Reference MRI-Only) Subject: sub-6, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-6\anat\sub-6_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-60, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-60\anat\sub-60_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-61, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-61\anat\sub-61_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-62, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-62\anat\sub-62_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-63, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-63\anat\sub-63_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-64, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-64\anat\sub-64_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+(Reference MRI-Only) Subject: sub-65, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-65\anat\sub-65_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 114)
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+(Reference MRI-Only) Subject: sub-66, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-66\anat\sub-66_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 114)
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+(Reference MRI-Only) Subject: sub-67, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-67\anat\sub-67_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 114)
+(Reference MRI-Only) Subject: sub-68, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-68\anat\sub-68_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-69, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-69\anat\sub-69_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-7, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-7\anat\sub-7_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-70, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-70\anat\sub-70_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5012, 5101, 5102}. Label image only contains 113 labels (including background).
+  warnings.warn(
+(Reference MRI-Only) Subject: sub-71, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-71\anat\sub-71_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 112)
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {6221, 5101, 5102, 5201, 5202, 5011, 5012, 5301, 9140}. Label image only contains 108 labels (including background).
+  warnings.warn(
+(Reference MRI-Only) Subject: sub-72, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-72\anat\sub-72_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 107)
+(Reference MRI-Only) Subject: sub-74, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-74\anat\sub-74_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-75, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-75\anat\sub-75_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-76, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-76\anat\sub-76_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+(Reference MRI-Only) Subject: sub-77, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-77\anat\sub-77_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 113)
+(Reference MRI-Only) Subject: sub-78, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-78\anat\sub-78_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-79, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-79\anat\sub-79_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-8, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-8\anat\sub-8_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-81, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-81\anat\sub-81_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-82, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-82\anat\sub-82_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-83, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-83\anat\sub-83_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+(Reference MRI-Only) Subject: sub-84, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-84\anat\sub-84_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 113)
+(Reference MRI-Only) Subject: sub-85, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-85\anat\sub-85_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-86, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-86\anat\sub-86_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101}. Label image only contains 116 labels (including background).
+  warnings.warn(
+(Reference MRI-Only) Subject: sub-87, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-87\anat\sub-87_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 115)
+(Reference MRI-Only) Subject: sub-88, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-88\anat\sub-88_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-89, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-89\anat\sub-89_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-9, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-9\anat\sub-9_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-90, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-90\anat\sub-90_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-91, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-91\anat\sub-91_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9071, 9072, 9081, 9082, 9051, 9052}. Label image only contains 111 labels (including background).
+  warnings.warn(
+(Reference MRI-Only) Subject: sub-92, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-92\anat\sub-92_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 110)
+(Reference MRI-Only) Subject: sub-93, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-93\anat\sub-93_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-94, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-94\anat\sub-94_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-95, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-95\anat\sub-95_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-96, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-96\anat\sub-96_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101}. Label image only contains 116 labels (including background).
+  warnings.warn(
+(Reference MRI-Only) Subject: sub-97, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-97\anat\sub-97_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 115)
+(Reference MRI-Only) Subject: sub-98, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-98\anat\sub-98_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+(Reference MRI-Only) Subject: sub-99, MRI Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-99\anat\sub-99_T1w_skullstripped.nii.gz, ROI Data Shape: (1, 116)
+Surviving MRI-Only labels (after reference): range(0, 116)
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 5011, 5012, 5302}. Label image only contains 110 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {6102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5202, 5011, 5012, 5302}. Label image only contains 111 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5102, 5101, 5302}. Label image only contains 113 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9061, 9062, 9160, 9001, 9002, 9071, 9072, 9170, 9011, 9012, 9140, 9081, 9082, 9051, 9052, 9150}. Label image only contains 101 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9081, 9052}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5202, 5011, 5012, 6101}. Label image only contains 111 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9081, 9082, 9052}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5202, 9140, 5301, 5302, 9150}. Label image only contains 110 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9071, 9072, 9081, 9082, 9051, 9052}. Label image only contains 111 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 9140, 5012, 5302}. Label image only contains 110 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9051}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 5011, 5012}. Label image only contains 111 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 5011, 5012, 6101}. Label image only contains 110 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9130, 6221, 6222, 5101, 5102, 5201, 5202, 5011, 5012, 5301, 5302, 9140, 6101, 9150}. Label image only contains 103 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 5011, 5012, 9140, 5302}. Label image only contains 109 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 5011}. Label image only contains 112 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5201, 5202, 5101, 5102}. Label image only contains 113 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 5011, 5012, 6101}. Label image only contains 110 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5201, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5202, 6101, 5102}. Label image only contains 113 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 6222, 5102, 5201, 5202, 5011, 5012, 9140, 5302, 6101, 6102}. Label image only contains 106 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {6221, 6222, 5101, 5102, 5201, 5202, 5011, 5012, 5301, 5302, 9140, 6101}. Label image only contains 105 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5012, 5101, 5102}. Label image only contains 113 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9051, 9052, 9061, 9062}. Label image only contains 113 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5012, 5101, 5102}. Label image only contains 113 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5202, 5011, 5012, 6101}. Label image only contains 111 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {6221, 5101, 5102, 5201, 5202, 5011, 5012, 5301, 5302, 9140}. Label image only contains 107 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 5011, 5012}. Label image only contains 111 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5201, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5201, 5202, 5101, 5102}. Label image only contains 113 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 6101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 6101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 6221, 5102, 5201, 5011}. Label image only contains 112 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 6101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 5011}. Label image only contains 112 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 5011}. Label image only contains 112 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9081}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 5011, 5012, 6101}. Label image only contains 110 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9071, 9072, 9081, 9082, 9051, 9052}. Label image only contains 111 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9061, 9062, 9160, 9071, 9072, 9012, 9081, 9082, 9051, 9052}. Label image only contains 107 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {6221, 5101, 5102, 5201, 5202, 5011, 5012, 5301, 5302, 9140}. Label image only contains 107 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5202, 5012, 5302}. Label image only contains 112 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5001, 5002, 9130, 6221, 6222, 5101, 5102, 5201, 5202, 5011, 5012, 5301, 5302, 9140, 6101, 6102, 9150}. Label image only contains 100 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5201, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9071, 9072, 9081, 9082, 9051, 9052}. Label image only contains 111 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5012, 5101, 5102}. Label image only contains 113 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {6221, 5101, 5102, 5201, 5202, 5011, 5012, 5301, 9140}. Label image only contains 108 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9071, 9072, 9081, 9082, 9051, 9052}. Label image only contains 111 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101}. Label image only contains 116 labels (including background).
+  warnings.warn(
+MRI-PET (Anat) Data Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri_pet\derivatives\cleaned_skullstrip
+PET (Processed) Data Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri_pet\derivatives\preprocessed_pet
+
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 5011, 5012, 5302}. Label image only contains 110 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {6102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5202, 5011, 5012, 5302}. Label image only contains 111 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5102, 5101, 5302}. Label image only contains 113 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9061, 9062, 9160, 9001, 9002, 9071, 9072, 9170, 9011, 9012, 9140, 9081, 9082, 9051, 9052, 9150}. Label image only contains 101 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9081, 9052}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5202, 5011, 5012, 6101}. Label image only contains 111 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9081, 9082, 9052}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5202, 9140, 5301, 5302, 9150}. Label image only contains 110 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9071, 9072, 9081, 9082, 9051, 9052}. Label image only contains 111 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 9140, 5012, 5302}. Label image only contains 110 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9051}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 5011, 5012}. Label image only contains 111 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 5011, 5012, 6101}. Label image only contains 110 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9130, 6221, 6222, 5101, 5102, 5201, 5202, 5011, 5012, 5301, 5302, 9140, 6101, 9150}. Label image only contains 103 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 5011, 5012, 9140, 5302}. Label image only contains 109 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 5011}. Label image only contains 112 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5201, 5202, 5101, 5102}. Label image only contains 113 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 5011, 5012, 6101}. Label image only contains 110 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5201, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5202, 6101, 5102}. Label image only contains 113 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 6222, 5102, 5201, 5202, 5011, 5012, 9140, 5302, 6101, 6102}. Label image only contains 106 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {6221, 6222, 5101, 5102, 5201, 5202, 5011, 5012, 5301, 5302, 9140, 6101}. Label image only contains 105 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5012, 5101, 5102}. Label image only contains 113 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {9051, 9052, 9061, 9062}. Label image only contains 113 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5012, 5101, 5102}. Label image only contains 113 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5202, 5011, 5012, 6101}. Label image only contains 111 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {6221, 5101, 5102, 5201, 5202, 5011, 5012, 5301, 5302, 9140}. Label image only contains 107 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 5011, 5012}. Label image only contains 111 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5201, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5201, 5202, 5101, 5102}. Label image only contains 113 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 6101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5102}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 6101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 6221, 5102, 5201, 5011}. Label image only contains 112 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 6101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101}. Label image only contains 116 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5202, 5101, 5102}. Label image only contains 114 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 5011}. Label image only contains 112 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102}. Label image only contains 115 labels (including background).
+  warnings.warn(
+c:\Users\ishsh\OneDrive\Desktop\QML_Project\venv4qml\Lib\site-packages\nilearn\maskers\nifti_labels_masker.py:888: UserWarning: After resampling the label image to the data image, the following labels were removed: {5101, 5102, 5201, 5202, 5011}. Label image only contains 112 labels (including background).
+  warnings.warn(
+
+MRI-PET (Anat) Data Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri_pet\derivatives\cleaned_skullstrip
+PET (Processed) Data Path: C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri_pet\derivatives\preprocessed_pet

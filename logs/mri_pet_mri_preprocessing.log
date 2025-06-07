@@ -1,0 +1,514 @@
+2025-04-14 05:40:25.841466 - Error processing sub-control01: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:25.855619 - Error processing sub-control02: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:25.868825 - Error processing sub-control03: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:25.886029 - Error processing sub-control04: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:25.900659 - Error processing sub-control05: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:25.914805 - Error processing sub-control06: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:25.932474 - Error processing sub-control07: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:25.951874 - Error processing sub-control08: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:25.967969 - Error processing sub-control09: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:25.982334 - Error processing sub-control10: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:25.997361 - Error processing sub-control11: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.015039 - Error processing sub-control12: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.032898 - Error processing sub-control13: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.048198 - Error processing sub-control14: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.064037 - Error processing sub-control15: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.078292 - Error processing sub-control16: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.097462 - Error processing sub-control17: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.115135 - Error processing sub-control18: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.133817 - Error processing sub-patient01: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.152145 - Error processing sub-patient02: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.169622 - Error processing sub-patient03: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.189277 - Error processing sub-patient04: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.207315 - Error processing sub-patient05: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.224444 - Error processing sub-patient06: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.244787 - Error processing sub-patient07: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.262321 - Error processing sub-patient08: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.278628 - Error processing sub-patient09: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.292956 - Error processing sub-patient10: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.309972 - Error processing sub-patient11: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.326147 - Error processing sub-patient12: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.342823 - Error processing sub-patient13: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.358414 - Error processing sub-patient14: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.367808 - Error processing sub-patient15: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.389276 - Error processing sub-patient16: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.408405 - Error processing sub-patient17: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.426266 - Error processing sub-patient18: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.442845 - Error processing sub-patient19: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.458878 - Error processing sub-patient20: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.472877 - Error processing sub-patient21: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.475107 - Error processing sub-patient22: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.476453 - Error processing sub-patient23: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.478493 - Error processing sub-patient24: module 'ants' has no attribute 'from_nibabel'
+2025-04-14 05:40:26.478493 - Finished: 0 processed, 42 failed.
+2025-04-14 05:44:15.809741 - Error processing sub-control01: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:16.879193 - Error processing sub-control02: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:17.978989 - Error processing sub-control03: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:19.059881 - Error processing sub-control04: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:20.281421 - Error processing sub-control05: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:21.607965 - Error processing sub-control06: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:22.715138 - Error processing sub-control07: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:23.723385 - Error processing sub-control08: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:24.942577 - Error processing sub-control09: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:26.335587 - Error processing sub-control10: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:27.677200 - Error processing sub-control11: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:29.002168 - Error processing sub-control12: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:30.387856 - Error processing sub-control13: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:31.776269 - Error processing sub-control14: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:33.108863 - Error processing sub-control15: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:34.534178 - Error processing sub-control16: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:35.837178 - Error processing sub-control17: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:36.891303 - Error processing sub-control18: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:38.388129 - Error processing sub-patient01: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:39.473602 - Error processing sub-patient02: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:40.880432 - Error processing sub-patient03: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:41.935337 - Error processing sub-patient04: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:43.315040 - Error processing sub-patient05: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:44.666139 - Error processing sub-patient06: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:45.926672 - Error processing sub-patient07: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:47.275450 - Error processing sub-patient08: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:48.316386 - Error processing sub-patient09: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:49.536366 - Error processing sub-patient10: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:50.858836 - Error processing sub-patient11: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:52.191361 - Error processing sub-patient12: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:53.525157 - Error processing sub-patient13: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:54.827347 - Error processing sub-patient14: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:55.933416 - Error processing sub-patient15: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:57.001526 - Error processing sub-patient16: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:58.393815 - Error processing sub-patient17: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:44:59.523790 - Error processing sub-patient18: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:45:00.871032 - Error processing sub-patient19: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:45:02.295459 - Error processing sub-patient20: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:45:03.385886 - Error processing sub-patient21: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:45:04.714569 - Error processing sub-patient22: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:45:05.999972 - Error processing sub-patient23: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:45:07.096572 - Error processing sub-patient24: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:45:07.106874 - Finished: 0 processed, 42 failed.
+2025-04-14 05:49:12.011130 - Error processing sub-control01: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:13.144649 - Error processing sub-control02: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:14.217854 - Error processing sub-control03: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:15.225164 - Error processing sub-control04: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:16.462376 - Error processing sub-control05: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:17.879172 - Error processing sub-control06: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:18.978964 - Error processing sub-control07: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:20.053105 - Error processing sub-control08: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:21.262119 - Error processing sub-control09: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:22.696349 - Error processing sub-control10: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:24.113811 - Error processing sub-control11: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:25.576506 - Error processing sub-control12: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:26.867401 - Error processing sub-control13: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:28.233594 - Error processing sub-control14: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:29.556248 - Error processing sub-control15: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:30.958053 - Error processing sub-control16: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:32.289274 - Error processing sub-control17: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:33.357399 - Error processing sub-control18: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:34.718625 - Error processing sub-patient01: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:35.904463 - Error processing sub-patient02: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:37.296529 - Error processing sub-patient03: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:38.401307 - Error processing sub-patient04: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:39.722111 - Error processing sub-patient05: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:41.057829 - Error processing sub-patient06: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:42.420638 - Error processing sub-patient07: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:43.718031 - Error processing sub-patient08: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:44.782293 - Error processing sub-patient09: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:46.013548 - Error processing sub-patient10: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:47.480138 - Error processing sub-patient11: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:49.056945 - Error processing sub-patient12: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:50.617511 - Error processing sub-patient13: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:52.150406 - Error processing sub-patient14: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:53.379065 - Error processing sub-patient15: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:54.550356 - Error processing sub-patient16: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:56.065029 - Error processing sub-patient17: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:57.124002 - Error processing sub-patient18: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:58.487293 - Error processing sub-patient19: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:49:59.953666 - Error processing sub-patient20: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:50:01.032778 - Error processing sub-patient21: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:50:02.385016 - Error processing sub-patient22: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:50:03.783972 - Error processing sub-patient23: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:50:04.894241 - Error processing sub-patient24: module 'ants' has no attribute 'brain_extraction'
+2025-04-14 05:50:04.895198 - Finished: 0 processed, 42 failed.
+2025-04-14 05:52:33.855289 - Error processing sub-control01: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:35.011225 - Error processing sub-control02: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:36.134164 - Error processing sub-control03: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:37.199942 - Error processing sub-control04: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:38.467687 - Error processing sub-control05: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:39.800464 - Error processing sub-control06: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:40.911189 - Error processing sub-control07: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:42.006728 - Error processing sub-control08: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:43.226884 - Error processing sub-control09: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:44.612282 - Error processing sub-control10: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:45.912865 - Error processing sub-control11: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:47.206634 - Error processing sub-control12: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:48.579253 - Error processing sub-control13: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:49.888093 - Error processing sub-control14: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:51.165907 - Error processing sub-control15: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:52.550412 - Error processing sub-control16: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:53.898238 - Error processing sub-control17: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:54.948271 - Error processing sub-control18: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:56.354868 - Error processing sub-patient01: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:57.508600 - Error processing sub-patient02: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:58.882392 - Error processing sub-patient03: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:52:59.896438 - Error processing sub-patient04: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:01.303178 - Error processing sub-patient05: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:02.628805 - Error processing sub-patient06: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:03.955039 - Error processing sub-patient07: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:05.258970 - Error processing sub-patient08: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:06.351216 - Error processing sub-patient09: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:07.638114 - Error processing sub-patient10: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:08.982625 - Error processing sub-patient11: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:10.464219 - Error processing sub-patient12: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:11.887073 - Error processing sub-patient13: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:13.213003 - Error processing sub-patient14: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:14.375051 - Error processing sub-patient15: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:15.426752 - Error processing sub-patient16: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:16.843266 - Error processing sub-patient17: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:17.973922 - Error processing sub-patient18: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:19.309604 - Error processing sub-patient19: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:20.666071 - Error processing sub-patient20: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:21.730808 - Error processing sub-patient21: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:23.037199 - Error processing sub-patient22: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:24.337101 - Error processing sub-patient23: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:25.492385 - Error processing sub-patient24: atropos() missing 1 required positional argument: 'x'
+2025-04-14 05:53:25.492385 - Finished: 0 processed, 42 failed.
+2025-04-14 05:55:26.862359 - Error processing sub-control01: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:27.960900 - Error processing sub-control02: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:29.060849 - Error processing sub-control03: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:30.127958 - Error processing sub-control04: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:31.343256 - Error processing sub-control05: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:32.675416 - Error processing sub-control06: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:33.803957 - Error processing sub-control07: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:34.859700 - Error processing sub-control08: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:36.090247 - Error processing sub-control09: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:37.528678 - Error processing sub-control10: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:38.872142 - Error processing sub-control11: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:40.190824 - Error processing sub-control12: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:41.646641 - Error processing sub-control13: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:43.019263 - Error processing sub-control14: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:44.392342 - Error processing sub-control15: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:45.814271 - Error processing sub-control16: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:47.104434 - Error processing sub-control17: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:48.228463 - Error processing sub-control18: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:49.586296 - Error processing sub-patient01: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:50.780152 - Error processing sub-patient02: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:52.154589 - Error processing sub-patient03: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:53.191071 - Error processing sub-patient04: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:54.588363 - Error processing sub-patient05: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:55.887095 - Error processing sub-patient06: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:57.245616 - Error processing sub-patient07: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:58.632828 - Error processing sub-patient08: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:55:59.637225 - Error processing sub-patient09: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:56:00.857612 - Error processing sub-patient10: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:56:02.209408 - Error processing sub-patient11: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:56:03.592763 - Error processing sub-patient12: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:56:04.934040 - Error processing sub-patient13: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:56:06.241016 - Error processing sub-patient14: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:56:07.378362 - Error processing sub-patient15: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:56:08.471003 - Error processing sub-patient16: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:56:09.823706 - Error processing sub-patient17: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:56:10.885830 - Error processing sub-patient18: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:56:12.187655 - Error processing sub-patient19: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:56:13.648163 - Error processing sub-patient20: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:56:14.670107 - Error processing sub-patient21: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:56:15.967716 - Error processing sub-patient22: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:56:17.289944 - Error processing sub-patient23: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:56:18.360511 - Error processing sub-patient24: atropos() missing 1 required positional argument: 'a'
+2025-04-14 05:56:18.360511 - Finished: 0 processed, 42 failed.
+2025-04-14 06:03:09.850590 - Error processing sub-control01: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:11.034436 - Error processing sub-control02: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:12.194458 - Error processing sub-control03: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:13.338850 - Error processing sub-control04: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:14.662502 - Error processing sub-control05: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:16.019293 - Error processing sub-control06: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:17.118693 - Error processing sub-control07: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:18.151887 - Error processing sub-control08: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:19.393471 - Error processing sub-control09: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:20.808748 - Error processing sub-control10: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:22.223151 - Error processing sub-control11: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:23.680864 - Error processing sub-control12: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:25.104410 - Error processing sub-control13: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:26.611250 - Error processing sub-control14: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:28.077937 - Error processing sub-control15: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:29.632445 - Error processing sub-control16: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:30.997451 - Error processing sub-control17: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:32.198072 - Error processing sub-control18: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:33.646923 - Error processing sub-patient01: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:34.799166 - Error processing sub-patient02: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:36.183171 - Error processing sub-patient03: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:37.387833 - Error processing sub-patient04: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:38.773977 - Error processing sub-patient05: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:40.071335 - Error processing sub-patient06: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:41.425091 - Error processing sub-patient07: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:42.756722 - Error processing sub-patient08: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:43.884431 - Error processing sub-patient09: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:45.135178 - Error processing sub-patient10: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:46.529746 - Error processing sub-patient11: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:47.903849 - Error processing sub-patient12: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:49.244877 - Error processing sub-patient13: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:50.654442 - Error processing sub-patient14: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:51.773841 - Error processing sub-patient15: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:52.818463 - Error processing sub-patient16: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:54.134413 - Error processing sub-patient17: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:55.213481 - Error processing sub-patient18: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:56.542861 - Error processing sub-patient19: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:58.077468 - Error processing sub-patient20: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:03:59.138992 - Error processing sub-patient21: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:04:00.477891 - Error processing sub-patient22: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:04:01.933345 - Error processing sub-patient23: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:04:02.977079 - Error processing sub-patient24: atropos() missing 1 required positional argument: 'a'
+2025-04-14 06:04:02.977079 - Finished: 0 processed, 42 failed.
+2025-04-14 06:18:52.420699 - Error processing sub-control01: name 'ants_img' is not defined
+2025-04-14 06:18:52.422402 - Error processing sub-control02: name 'ants_img' is not defined
+2025-04-14 06:18:52.422913 - Error processing sub-control03: name 'ants_img' is not defined
+2025-04-14 06:18:52.422913 - Error processing sub-control04: name 'ants_img' is not defined
+2025-04-14 06:18:52.422913 - Error processing sub-control05: name 'ants_img' is not defined
+2025-04-14 06:18:52.422913 - Error processing sub-control06: name 'ants_img' is not defined
+2025-04-14 06:18:52.422913 - Error processing sub-control07: name 'ants_img' is not defined
+2025-04-14 06:18:52.424919 - Error processing sub-control08: name 'ants_img' is not defined
+2025-04-14 06:18:52.424919 - Error processing sub-control09: name 'ants_img' is not defined
+2025-04-14 06:18:52.424919 - Error processing sub-control10: name 'ants_img' is not defined
+2025-04-14 06:18:52.424919 - Error processing sub-control11: name 'ants_img' is not defined
+2025-04-14 06:18:52.426926 - Error processing sub-control12: name 'ants_img' is not defined
+2025-04-14 06:18:52.426926 - Error processing sub-control13: name 'ants_img' is not defined
+2025-04-14 06:18:52.426926 - Error processing sub-control14: name 'ants_img' is not defined
+2025-04-14 06:18:52.428931 - Error processing sub-control15: name 'ants_img' is not defined
+2025-04-14 06:18:52.429891 - Error processing sub-control16: name 'ants_img' is not defined
+2025-04-14 06:18:52.430292 - Error processing sub-control17: name 'ants_img' is not defined
+2025-04-14 06:18:52.430292 - Error processing sub-control18: name 'ants_img' is not defined
+2025-04-14 06:18:52.431423 - Error processing sub-patient01: name 'ants_img' is not defined
+2025-04-14 06:18:52.432891 - Error processing sub-patient02: name 'ants_img' is not defined
+2025-04-14 06:18:52.433998 - Error processing sub-patient03: name 'ants_img' is not defined
+2025-04-14 06:18:52.433998 - Error processing sub-patient04: name 'ants_img' is not defined
+2025-04-14 06:18:52.435042 - Error processing sub-patient05: name 'ants_img' is not defined
+2025-04-14 06:18:52.435042 - Error processing sub-patient06: name 'ants_img' is not defined
+2025-04-14 06:18:52.435042 - Error processing sub-patient07: name 'ants_img' is not defined
+2025-04-14 06:18:52.435042 - Error processing sub-patient08: name 'ants_img' is not defined
+2025-04-14 06:18:52.435042 - Error processing sub-patient09: name 'ants_img' is not defined
+2025-04-14 06:18:52.435042 - Error processing sub-patient10: name 'ants_img' is not defined
+2025-04-14 06:18:52.438970 - Error processing sub-patient11: name 'ants_img' is not defined
+2025-04-14 06:18:52.438970 - Error processing sub-patient12: name 'ants_img' is not defined
+2025-04-14 06:18:52.439982 - Error processing sub-patient13: name 'ants_img' is not defined
+2025-04-14 06:18:52.439982 - Error processing sub-patient14: name 'ants_img' is not defined
+2025-04-14 06:18:52.441450 - Error processing sub-patient15: name 'ants_img' is not defined
+2025-04-14 06:18:52.441450 - Error processing sub-patient16: name 'ants_img' is not defined
+2025-04-14 06:18:52.442458 - Error processing sub-patient17: name 'ants_img' is not defined
+2025-04-14 06:18:52.442458 - Error processing sub-patient18: name 'ants_img' is not defined
+2025-04-14 06:18:52.443463 - Error processing sub-patient19: name 'ants_img' is not defined
+2025-04-14 06:18:52.444415 - Error processing sub-patient20: name 'ants_img' is not defined
+2025-04-14 06:18:52.444916 - Error processing sub-patient21: name 'ants_img' is not defined
+2025-04-14 06:18:52.444916 - Error processing sub-patient22: name 'ants_img' is not defined
+2025-04-14 06:18:52.446193 - Error processing sub-patient23: name 'ants_img' is not defined
+2025-04-14 06:18:52.446193 - Error processing sub-patient24: name 'ants_img' is not defined
+2025-04-14 06:18:52.447191 - Finished: 0 processed, 42 failed.
+2025-04-14 06:22:07.262242 - Error processing sub-control01: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:08.483182 - Error processing sub-control02: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:09.664682 - Error processing sub-control03: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:10.821499 - Error processing sub-control04: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:12.143303 - Error processing sub-control05: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:13.537966 - Error processing sub-control06: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:14.643559 - Error processing sub-control07: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:15.714912 - Error processing sub-control08: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:17.025112 - Error processing sub-control09: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:18.486925 - Error processing sub-control10: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:19.949805 - Error processing sub-control11: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:21.343035 - Error processing sub-control12: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:22.781552 - Error processing sub-control13: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:24.160267 - Error processing sub-control14: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:25.521659 - Error processing sub-control15: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:26.983077 - Error processing sub-control16: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:28.437558 - Error processing sub-control17: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:29.705342 - Error processing sub-control18: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:31.283551 - Error processing sub-patient01: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:32.539188 - Error processing sub-patient02: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:34.172635 - Error processing sub-patient03: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:35.462715 - Error processing sub-patient04: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:37.172049 - Error processing sub-patient05: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:38.550136 - Error processing sub-patient06: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:40.076905 - Error processing sub-patient07: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:41.616316 - Error processing sub-patient08: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:43.067907 - Error processing sub-patient09: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:44.644865 - Error processing sub-patient10: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:46.135776 - Error processing sub-patient11: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:47.612318 - Error processing sub-patient12: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:48.986343 - Error processing sub-patient13: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:50.348640 - Error processing sub-patient14: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:51.600474 - Error processing sub-patient15: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:52.767167 - Error processing sub-patient16: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:54.162603 - Error processing sub-patient17: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:55.282043 - Error processing sub-patient18: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:56.720301 - Error processing sub-patient19: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:58.182982 - Error processing sub-patient20: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:22:59.297483 - Error processing sub-patient21: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:23:00.681709 - Error processing sub-patient22: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:23:02.097356 - Error processing sub-patient23: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:23:03.230448 - Error processing sub-patient24: Atropos exited with non-zero status 1. Run with verbose=1 to see error messages
+2025-04-14 06:23:03.241883 - Finished: 0 processed, 42 failed.
+2025-04-14 07:24:10 - INFO - 🔄 Processing sub-control01
+2025-04-14 07:24:19 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control01\anat\sub-control01_T1w_skullstripped.nii.gz
+2025-04-14 07:24:20 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control01\anat\sub-control01_brain_mask.nii.gz
+2025-04-14 07:24:20 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control01\anat\sub-control01_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control01\anat\sub-control01_brain_mask.nii.gz for quality.
+2025-04-14 07:24:20 - INFO - 🔄 Processing sub-control02
+2025-04-14 07:24:30 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control02\anat\sub-control02_T1w_skullstripped.nii.gz
+2025-04-14 07:24:30 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control02\anat\sub-control02_brain_mask.nii.gz
+2025-04-14 07:24:30 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control02\anat\sub-control02_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control02\anat\sub-control02_brain_mask.nii.gz for quality.
+2025-04-14 07:24:30 - INFO - 🔄 Processing sub-control03
+2025-04-14 07:24:39 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control03\anat\sub-control03_T1w_skullstripped.nii.gz
+2025-04-14 07:24:40 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control03\anat\sub-control03_brain_mask.nii.gz
+2025-04-14 07:24:40 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control03\anat\sub-control03_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control03\anat\sub-control03_brain_mask.nii.gz for quality.
+2025-04-14 07:24:40 - INFO - 🔄 Processing sub-control04
+2025-04-14 07:24:49 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control04\anat\sub-control04_T1w_skullstripped.nii.gz
+2025-04-14 07:24:50 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control04\anat\sub-control04_brain_mask.nii.gz
+2025-04-14 07:24:50 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control04\anat\sub-control04_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control04\anat\sub-control04_brain_mask.nii.gz for quality.
+2025-04-14 07:24:50 - INFO - 🔄 Processing sub-control05
+2025-04-14 07:25:03 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control05\anat\sub-control05_T1w_skullstripped.nii.gz
+2025-04-14 07:25:05 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control05\anat\sub-control05_brain_mask.nii.gz
+2025-04-14 07:25:05 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control05\anat\sub-control05_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control05\anat\sub-control05_brain_mask.nii.gz for quality.
+2025-04-14 07:25:05 - INFO - 🔄 Processing sub-control06
+2025-04-14 07:25:25 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control06\anat\sub-control06_T1w_skullstripped.nii.gz
+2025-04-14 07:25:26 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control06\anat\sub-control06_brain_mask.nii.gz
+2025-04-14 07:25:26 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control06\anat\sub-control06_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control06\anat\sub-control06_brain_mask.nii.gz for quality.
+2025-04-14 07:25:26 - INFO - 🔄 Processing sub-control07
+2025-04-14 07:25:48 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control07\anat\sub-control07_T1w_skullstripped.nii.gz
+2025-04-14 07:25:49 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control07\anat\sub-control07_brain_mask.nii.gz
+2025-04-14 07:25:49 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control07\anat\sub-control07_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control07\anat\sub-control07_brain_mask.nii.gz for quality.
+2025-04-14 07:25:49 - INFO - 🔄 Processing sub-control08
+2025-04-14 07:25:59 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control08\anat\sub-control08_T1w_skullstripped.nii.gz
+2025-04-14 07:25:59 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control08\anat\sub-control08_brain_mask.nii.gz
+2025-04-14 07:25:59 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control08\anat\sub-control08_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control08\anat\sub-control08_brain_mask.nii.gz for quality.
+2025-04-14 07:25:59 - INFO - 🔄 Processing sub-control09
+2025-04-14 07:26:08 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control09\anat\sub-control09_T1w_skullstripped.nii.gz
+2025-04-14 07:26:09 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control09\anat\sub-control09_brain_mask.nii.gz
+2025-04-14 07:26:09 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control09\anat\sub-control09_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control09\anat\sub-control09_brain_mask.nii.gz for quality.
+2025-04-14 07:26:09 - INFO - 🔄 Processing sub-control10
+2025-04-14 07:26:19 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control10\anat\sub-control10_T1w_skullstripped.nii.gz
+2025-04-14 07:26:19 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control10\anat\sub-control10_brain_mask.nii.gz
+2025-04-14 07:26:19 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control10\anat\sub-control10_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control10\anat\sub-control10_brain_mask.nii.gz for quality.
+2025-04-14 07:26:19 - INFO - 🔄 Processing sub-control11
+2025-04-14 07:26:28 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control11\anat\sub-control11_T1w_skullstripped.nii.gz
+2025-04-14 07:26:29 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control11\anat\sub-control11_brain_mask.nii.gz
+2025-04-14 07:26:29 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control11\anat\sub-control11_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control11\anat\sub-control11_brain_mask.nii.gz for quality.
+2025-04-14 07:26:29 - INFO - 🔄 Processing sub-control12
+2025-04-14 07:26:38 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control12\anat\sub-control12_T1w_skullstripped.nii.gz
+2025-04-14 07:26:38 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control12\anat\sub-control12_brain_mask.nii.gz
+2025-04-14 07:26:38 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control12\anat\sub-control12_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control12\anat\sub-control12_brain_mask.nii.gz for quality.
+2025-04-14 07:26:38 - INFO - 🔄 Processing sub-control13
+2025-04-14 07:26:47 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control13\anat\sub-control13_T1w_skullstripped.nii.gz
+2025-04-14 07:26:48 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control13\anat\sub-control13_brain_mask.nii.gz
+2025-04-14 07:26:48 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control13\anat\sub-control13_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control13\anat\sub-control13_brain_mask.nii.gz for quality.
+2025-04-14 07:26:48 - INFO - 🔄 Processing sub-control14
+2025-04-14 07:27:04 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control14\anat\sub-control14_T1w_skullstripped.nii.gz
+2025-04-14 07:27:05 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control14\anat\sub-control14_brain_mask.nii.gz
+2025-04-14 07:27:05 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control14\anat\sub-control14_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control14\anat\sub-control14_brain_mask.nii.gz for quality.
+2025-04-14 07:27:05 - INFO - 🔄 Processing sub-control15
+2025-04-14 07:27:26 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control15\anat\sub-control15_T1w_skullstripped.nii.gz
+2025-04-14 07:27:27 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control15\anat\sub-control15_brain_mask.nii.gz
+2025-04-14 07:27:27 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control15\anat\sub-control15_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control15\anat\sub-control15_brain_mask.nii.gz for quality.
+2025-04-14 07:27:27 - INFO - 🔄 Processing sub-control16
+2025-04-14 07:27:46 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control16\anat\sub-control16_T1w_skullstripped.nii.gz
+2025-04-14 07:27:46 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control16\anat\sub-control16_brain_mask.nii.gz
+2025-04-14 07:27:46 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control16\anat\sub-control16_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control16\anat\sub-control16_brain_mask.nii.gz for quality.
+2025-04-14 07:27:46 - INFO - 🔄 Processing sub-control17
+2025-04-14 07:27:56 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control17\anat\sub-control17_T1w_skullstripped.nii.gz
+2025-04-14 07:27:56 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control17\anat\sub-control17_brain_mask.nii.gz
+2025-04-14 07:27:56 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control17\anat\sub-control17_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control17\anat\sub-control17_brain_mask.nii.gz for quality.
+2025-04-14 07:27:56 - INFO - 🔄 Processing sub-control18
+2025-04-14 07:28:05 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control18\anat\sub-control18_T1w_skullstripped.nii.gz
+2025-04-14 07:28:06 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control18\anat\sub-control18_brain_mask.nii.gz
+2025-04-14 07:28:06 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control18\anat\sub-control18_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-control18\anat\sub-control18_brain_mask.nii.gz for quality.
+2025-04-14 07:28:06 - INFO - 🔄 Processing sub-patient01
+2025-04-14 07:28:22 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient01\anat\sub-patient01_T1w_skullstripped.nii.gz
+2025-04-14 07:28:24 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient01\anat\sub-patient01_brain_mask.nii.gz
+2025-04-14 07:28:24 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient01\anat\sub-patient01_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient01\anat\sub-patient01_brain_mask.nii.gz for quality.
+2025-04-14 07:28:24 - INFO - 🔄 Processing sub-patient02
+2025-04-14 07:28:43 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient02\anat\sub-patient02_T1w_skullstripped.nii.gz
+2025-04-14 07:28:45 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient02\anat\sub-patient02_brain_mask.nii.gz
+2025-04-14 07:28:45 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient02\anat\sub-patient02_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient02\anat\sub-patient02_brain_mask.nii.gz for quality.
+2025-04-14 07:28:45 - INFO - 🔄 Processing sub-patient03
+2025-04-14 07:29:04 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient03\anat\sub-patient03_T1w_skullstripped.nii.gz
+2025-04-14 07:29:06 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient03\anat\sub-patient03_brain_mask.nii.gz
+2025-04-14 07:29:06 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient03\anat\sub-patient03_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient03\anat\sub-patient03_brain_mask.nii.gz for quality.
+2025-04-14 07:29:06 - INFO - 🔄 Processing sub-patient04
+2025-04-14 07:29:25 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient04\anat\sub-patient04_T1w_skullstripped.nii.gz
+2025-04-14 07:29:26 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient04\anat\sub-patient04_brain_mask.nii.gz
+2025-04-14 07:29:26 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient04\anat\sub-patient04_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient04\anat\sub-patient04_brain_mask.nii.gz for quality.
+2025-04-14 07:29:26 - INFO - 🔄 Processing sub-patient05
+2025-04-14 07:29:46 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient05\anat\sub-patient05_T1w_skullstripped.nii.gz
+2025-04-14 07:29:48 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient05\anat\sub-patient05_brain_mask.nii.gz
+2025-04-14 07:29:48 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient05\anat\sub-patient05_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient05\anat\sub-patient05_brain_mask.nii.gz for quality.
+2025-04-14 07:29:48 - INFO - 🔄 Processing sub-patient06
+2025-04-14 07:30:07 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient06\anat\sub-patient06_T1w_skullstripped.nii.gz
+2025-04-14 07:30:08 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient06\anat\sub-patient06_brain_mask.nii.gz
+2025-04-14 07:30:08 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient06\anat\sub-patient06_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient06\anat\sub-patient06_brain_mask.nii.gz for quality.
+2025-04-14 07:30:08 - INFO - 🔄 Processing sub-patient07
+2025-04-14 07:30:28 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient07\anat\sub-patient07_T1w_skullstripped.nii.gz
+2025-04-14 07:30:30 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient07\anat\sub-patient07_brain_mask.nii.gz
+2025-04-14 07:30:30 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient07\anat\sub-patient07_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient07\anat\sub-patient07_brain_mask.nii.gz for quality.
+2025-04-14 07:30:30 - INFO - 🔄 Processing sub-patient08
+2025-04-14 07:30:50 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient08\anat\sub-patient08_T1w_skullstripped.nii.gz
+2025-04-14 07:30:51 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient08\anat\sub-patient08_brain_mask.nii.gz
+2025-04-14 07:30:51 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient08\anat\sub-patient08_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient08\anat\sub-patient08_brain_mask.nii.gz for quality.
+2025-04-14 07:30:51 - INFO - 🔄 Processing sub-patient09
+2025-04-14 07:31:10 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient09\anat\sub-patient09_T1w_skullstripped.nii.gz
+2025-04-14 07:31:12 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient09\anat\sub-patient09_brain_mask.nii.gz
+2025-04-14 07:31:12 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient09\anat\sub-patient09_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient09\anat\sub-patient09_brain_mask.nii.gz for quality.
+2025-04-14 07:31:12 - INFO - 🔄 Processing sub-patient10
+2025-04-14 07:31:31 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient10\anat\sub-patient10_T1w_skullstripped.nii.gz
+2025-04-14 07:31:32 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient10\anat\sub-patient10_brain_mask.nii.gz
+2025-04-14 07:31:32 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient10\anat\sub-patient10_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient10\anat\sub-patient10_brain_mask.nii.gz for quality.
+2025-04-14 07:31:32 - INFO - 🔄 Processing sub-patient11
+2025-04-14 07:31:46 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient11\anat\sub-patient11_T1w_skullstripped.nii.gz
+2025-04-14 07:31:48 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient11\anat\sub-patient11_brain_mask.nii.gz
+2025-04-14 07:31:48 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient11\anat\sub-patient11_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient11\anat\sub-patient11_brain_mask.nii.gz for quality.
+2025-04-14 07:31:48 - INFO - 🔄 Processing sub-patient12
+2025-04-14 07:32:03 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient12\anat\sub-patient12_T1w_skullstripped.nii.gz
+2025-04-14 07:32:05 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient12\anat\sub-patient12_brain_mask.nii.gz
+2025-04-14 07:32:05 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient12\anat\sub-patient12_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient12\anat\sub-patient12_brain_mask.nii.gz for quality.
+2025-04-14 07:32:05 - INFO - 🔄 Processing sub-patient13
+2025-04-14 07:32:21 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient13\anat\sub-patient13_T1w_skullstripped.nii.gz
+2025-04-14 07:32:22 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient13\anat\sub-patient13_brain_mask.nii.gz
+2025-04-14 07:32:22 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient13\anat\sub-patient13_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient13\anat\sub-patient13_brain_mask.nii.gz for quality.
+2025-04-14 07:32:22 - INFO - 🔄 Processing sub-patient14
+2025-04-14 07:32:41 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient14\anat\sub-patient14_T1w_skullstripped.nii.gz
+2025-04-14 07:32:43 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient14\anat\sub-patient14_brain_mask.nii.gz
+2025-04-14 07:32:43 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient14\anat\sub-patient14_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient14\anat\sub-patient14_brain_mask.nii.gz for quality.
+2025-04-14 07:32:43 - INFO - 🔄 Processing sub-patient15
+2025-04-14 07:33:04 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient15\anat\sub-patient15_T1w_skullstripped.nii.gz
+2025-04-14 07:33:05 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient15\anat\sub-patient15_brain_mask.nii.gz
+2025-04-14 07:33:05 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient15\anat\sub-patient15_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient15\anat\sub-patient15_brain_mask.nii.gz for quality.
+2025-04-14 07:33:05 - INFO - 🔄 Processing sub-patient16
+2025-04-14 07:33:25 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient16\anat\sub-patient16_T1w_skullstripped.nii.gz
+2025-04-14 07:33:27 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient16\anat\sub-patient16_brain_mask.nii.gz
+2025-04-14 07:33:27 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient16\anat\sub-patient16_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient16\anat\sub-patient16_brain_mask.nii.gz for quality.
+2025-04-14 07:33:27 - INFO - 🔄 Processing sub-patient17
+2025-04-14 07:33:44 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient17\anat\sub-patient17_T1w_skullstripped.nii.gz
+2025-04-14 07:33:46 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient17\anat\sub-patient17_brain_mask.nii.gz
+2025-04-14 07:33:46 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient17\anat\sub-patient17_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient17\anat\sub-patient17_brain_mask.nii.gz for quality.
+2025-04-14 07:33:46 - INFO - 🔄 Processing sub-patient18
+2025-04-14 07:34:03 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient18\anat\sub-patient18_T1w_skullstripped.nii.gz
+2025-04-14 07:34:05 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient18\anat\sub-patient18_brain_mask.nii.gz
+2025-04-14 07:34:05 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient18\anat\sub-patient18_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient18\anat\sub-patient18_brain_mask.nii.gz for quality.
+2025-04-14 07:34:05 - INFO - 🔄 Processing sub-patient19
+2025-04-14 07:34:25 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient19\anat\sub-patient19_T1w_skullstripped.nii.gz
+2025-04-14 07:34:27 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient19\anat\sub-patient19_brain_mask.nii.gz
+2025-04-14 07:34:27 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient19\anat\sub-patient19_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient19\anat\sub-patient19_brain_mask.nii.gz for quality.
+2025-04-14 07:34:27 - INFO - 🔄 Processing sub-patient20
+2025-04-14 07:34:49 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient20\anat\sub-patient20_T1w_skullstripped.nii.gz
+2025-04-14 07:34:50 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient20\anat\sub-patient20_brain_mask.nii.gz
+2025-04-14 07:34:50 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient20\anat\sub-patient20_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient20\anat\sub-patient20_brain_mask.nii.gz for quality.
+2025-04-14 07:34:50 - INFO - 🔄 Processing sub-patient21
+2025-04-14 07:35:11 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient21\anat\sub-patient21_T1w_skullstripped.nii.gz
+2025-04-14 07:35:12 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient21\anat\sub-patient21_brain_mask.nii.gz
+2025-04-14 07:35:12 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient21\anat\sub-patient21_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient21\anat\sub-patient21_brain_mask.nii.gz for quality.
+2025-04-14 07:35:12 - INFO - 🔄 Processing sub-patient22
+2025-04-14 07:35:33 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient22\anat\sub-patient22_T1w_skullstripped.nii.gz
+2025-04-14 07:35:35 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient22\anat\sub-patient22_brain_mask.nii.gz
+2025-04-14 07:35:35 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient22\anat\sub-patient22_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient22\anat\sub-patient22_brain_mask.nii.gz for quality.
+2025-04-14 07:35:35 - INFO - 🔄 Processing sub-patient23
+2025-04-14 07:35:58 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient23\anat\sub-patient23_T1w_skullstripped.nii.gz
+2025-04-14 07:36:00 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient23\anat\sub-patient23_brain_mask.nii.gz
+2025-04-14 07:36:00 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient23\anat\sub-patient23_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient23\anat\sub-patient23_brain_mask.nii.gz for quality.
+2025-04-14 07:36:00 - INFO - 🔄 Processing sub-patient24
+2025-04-14 07:36:17 - INFO - ✅ Saved data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient24\anat\sub-patient24_T1w_skullstripped.nii.gz
+2025-04-14 07:36:19 - INFO - ✅ Saved mask data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient24\anat\sub-patient24_brain_mask.nii.gz
+2025-04-14 07:36:19 - INFO - Reminder: please visually inspect data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient24\anat\sub-patient24_T1w_skullstripped.nii.gz and data/processed/mri_pet/derivatives/cleaned_skullstrip\sub-patient24\anat\sub-patient24_brain_mask.nii.gz for quality.
+2025-04-14 07:36:19 - INFO - Preprocessing completed.
+2025-04-14 07:36:19 - INFO - Important: Visually inspect the skull-stripped images and masks for accuracy.

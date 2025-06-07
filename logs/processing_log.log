@@ -1,0 +1,1 @@
+2025-04-17 20:48:19,156 - ERROR - Error processing MRI file C:\Users\ishsh\OneDrive\Desktop\QML_Project\data\processed\mri\derivatives\cleaned_skullstrip\sub-1\anat\sub-1_T1w_skullstripped.nii.gz: module 'numpy' has no attribute 'skew'
